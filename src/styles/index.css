@@ -123,6 +123,10 @@
 }
 
 html {
+  color-scheme: light dark;
+}
+
+html.dark {
   color-scheme: dark;
 }
 
